@@ -1,3 +1,7 @@
 <template>
-  <p class="text-2xl font-semibold text-blue-800">Home Page!</p>
+  <Head title="Home" />
 </template>
+
+<script setup>
+import { Head } from '@inertiajs/vue3'
+</script>

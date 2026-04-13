@@ -1,0 +1,7 @@
+/* Mobile 0 – 767px */
+
+@media (max-width: 767px) {
+  .column1, .column3 {
+    background-color: azure;
+  }
+}

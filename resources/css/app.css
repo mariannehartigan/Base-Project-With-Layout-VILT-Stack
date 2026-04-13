@@ -1,3 +1,13 @@
+@import 'reset.css';
+@import './layout/layout.css';
+@import './layout/tablet-layout.css';
+@import './layout/mobile-layout.css';
+@import 'header.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-size: 1vw;
+}

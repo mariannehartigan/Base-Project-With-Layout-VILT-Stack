@@ -1,0 +1,7 @@
+/* Tablet 768 – 1023px */
+
+@media (max-width: 1023px) {
+  .column1, .column3 {
+    background-color: beige;
+  }
+}
